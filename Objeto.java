@@ -1,6 +1,6 @@
 public class Objeto {
 
-  @Tabela("ANNOTATION")
+  @Tabela("Nome da Tabela")
   private String tabela;
 
   public Objeto(String tabela) {
